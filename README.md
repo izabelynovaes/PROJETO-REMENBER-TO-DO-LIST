@@ -10,13 +10,13 @@
 
 ## Funcionalidades
 
-O **REMENBER TODOLIST** inclui a seguinte funcionalidade princípail:
+O **REMENBER TODOLIST** inclui a seguinte funcionalidade princípal:
 
-- **Funcionalidade 1**: O aplicativo permite a criação de listas de tarefas categorizadas, com a capacidade de definir prioridades para cada tarefa. Isso ajuda os usuários a focar nas atividades mais importantes e a gerenciar seu tempo de maneira eficaz.
+- **Funcionalidade**: O aplicativo permite a criação de listas de tarefas categorizadas, com a capacidade de definir prioridades para cada tarefa. Isso ajuda os usuários a focar nas atividades mais importantes e a gerenciar seu tempo de maneira eficaz.
 
 ## Tecnologias Utilizadas 
 
-O projeto é contruído utilizando as seguintes  tecnologias:
+O projeto é construído utilizando as seguintes  tecnologias:
 
 - **Linguagem De Programação**: JavaScript, HTML, JSX, CSS, MarckDown.
 - **Ferramentas Adicionais**: Vs Code, GitHub.
