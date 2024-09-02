@@ -18,8 +18,8 @@ O **REMENBER TODOLIST** inclui a seguinte funcionalidade princípal:
 
 O projeto é construído utilizando as seguintes  tecnologias:
 
-- **Linguagem De Programação**: JavaScript, HTML, JSX, CSS, MarckDown.
-- **Ferramentas Adicionais**: Vs Code, GitHub.
+- **Linguagem De Programação**: JavaScript.
+- **Ferramentas Adicionais**: VsCode, GitHub, Figma
 
 
 
