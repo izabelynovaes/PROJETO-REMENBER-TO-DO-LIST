@@ -4,7 +4,7 @@
 
  O projeto **REMENBER TODOLIST** é uma aplicação de software projetada para facilitar o dia-a-dia dos usuários.
 
- ## Propósito
+## Propósito
 
  O pricípal objetivo do **REMENBER TODOLIST** é fornecer uma estrutura inicial eficiente que pode ser facilmente adaptada e expandida para atender uma ampla gama de usuários. Oferecendo uma melhor organização de suas tarefas presentes no dia-a-dia, como, reuniões, encontros casuais, ou até mesmo tarefas domésticas.
 
