@@ -21,5 +21,8 @@ O projeto é construído utilizando as seguintes  tecnologias:
 - **Linguagem De Programação**: JavaScript.
 - **Ferramentas Adicionais**: VsCode, GitHub, Figma
 
-
-
+#Participantes:
+- ** Ivan Lourenço de Sá Almeida Brito matricula: 202408166885
+- ** Dhaniel de Souza Carvalho matricula: 202408167245
+- ** Felipe Henrique Magossi matricula: 202408166788
+- ** Tarso Maia Vianna matricula: 202408159005
