@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+  <title>Browser</title>
+</head>
+
+<body>
+  <div class="container">
+    <h1>Seja Bem-Vindo</h1>
+    <p>Usuário:</p>
+    <form>
+    <input id="user" class="login" placeholder="Seu usuário"></input>
+    <p>Senha:</p>
+    <input type="password" id="password" class="login" placeholder="Sua senha"></input>
+    <div>
+    <button onclick="logar(); return false">Entrar</button>
+    </form>
+    </div>
+  </div>
+
+  <script type="text/javascript">
+    
+    function logar(){
+      var login = document.getElementById('user').value;
+      var senha = document.getElementById('password').value;  
+      if(login == "admin" && senha == "admin123"){
+        alert('Poggers');
+      }else{
+        alert('Noggers'); 
+      }
+    }
+
+  </script>
+</body>
+
+</html>
