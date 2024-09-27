@@ -1,0 +1,65 @@
+body{
+	font-family: "Inter", sans-serif; 
+}
+.topo {
+	width: 934px;
+	height: 59px;
+	background-color: #63F595B0;
+	border-radius: 36px;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-left: 25%;
+}
+.container{
+	display: flex; 
+	margin-left: 25%;
+}
+.tarefas{
+	margin-inline: 25px;
+}
+.cabecalho{
+	width: 178px;
+	height: 38px;
+	background-color: #83FF80;
+	border-radius: 35px;
+	text-align: center;
+	font-size: 8px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+.corpo{
+	width: 178px;
+	height: 412px;
+	background-color: #1ADDAE;
+	border-radius: 22px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.adicionar{
+	width: 934px;
+	height: 49px;
+	background-color:#1ADDAE;
+	border-radius: 35px;
+	text-align: center;
+	margin-top: 20px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-left: 25%;
+}
+button{
+  	background: none;
+  	border: none;
+  	color: white;
+  	font: inherit;
+  	cursor: pointer;
+  	padding: 20px;           
+  	font-size: 24px;
+}
