@@ -26,3 +26,5 @@ O projeto é construído utilizando as seguintes  tecnologias:
 - **Dhaniel de Souza Carvalho matricula: 202408167245**
 - **Felipe Henrique Magossi matricula: 202408166788**
 - **Tarso Maia Vianna matricula: 202408159005**
+- **Gabriel Silvano Ribeiro: 202408158491**
+- **Izabely Pereira Cucato: 202408158416**
