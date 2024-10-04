@@ -1,0 +1,58 @@
+.auth-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url(./img/13-macos-sierra-wallpaper-1260x907.jpg);
+  background-position: center;
+  background-size: cover;
+  color: #fff;
+}
+
+.form-container {
+  background: rgba(0, 0, 0, 0.7);
+  padding: 40px;
+  border-radius: 10px;
+  margin: 40px;
+  width: 400px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+}
+
+h2 {
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+input {
+  padding: 15px;
+  margin: 10px 0;
+  border-radius: 5px;
+  border: none;
+  width: 100%;
+}
+
+button {
+  padding: 10px;
+  background-color: #171b46;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 100%;
+}
+
+button:hover {
+  background-color: #333;
+}
+
+.links {
+  text-align: center;
+}
+
+.links button {
+  color: #fff;
+  text-decoration: none;
+  display: block;
+  margin-top: 10px;
+}
