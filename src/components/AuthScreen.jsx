@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
 
-import "/Users/ivan/Documents/faculdade/todolist-react/todolist2/meu-projeto/src/components/AuthScreen.css";
+import "/Users/gabrielsilvano/tcc/PROJETO-REMENBER-TO-DO-LIST/src/components/AuthScreen.css";
 
 function AuthScreen() {
   const [currentScreen, setCurrentScreen] = useState("login");
@@ -43,7 +43,7 @@ function LoginScreen({ onSwitch, onLogin }) {
           onLogin();
         }}
       >
-        <input type="text" placeholder="Usuário" />
+        <input type="text" placeholder="Email" />
         <input type="password" placeholder="Senha" />
         <button type="submit">Entrar</button>
       </form>

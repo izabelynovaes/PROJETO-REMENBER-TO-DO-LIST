@@ -9,16 +9,35 @@ body {
   background-size: cover;
   line-height: 1.6;
 }
+.app-list{
+  display: flex;
+
+}
 
 .app {
-  max-width: 600px;
-  margin: 40px auto;
+  max-width: 400px;
+  min-width: 397px;
+  margin: 60px;
+  margin-top: 94px;
   background-color: #ffffff;
   padding: 30px;
   border-radius: 12px;
   box-shadow: 0px 8px 25px rgba(0, 0, 0, 0.1);
   text-align: center;
 }
+.app-2 {
+  max-width: 400px;
+  margin: 64px;
+  margin-top: 94px;
+  background-color: #ffffff;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0px 8px 25px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  max-height: 305px;
+  margin-left: 157px;
+}
+
 
 h1 {
   font-size: 2.4rem;
@@ -35,7 +54,7 @@ h2 {
 }
 
 p {
-  margin: 10px 0;
+  margin: 0px 0;
   font-size: 1rem;
 }
 
@@ -90,6 +109,7 @@ button:hover,
   justify-content: space-between;
   align-items: center;
   transition: background-color 0.3s, box-shadow 0.3s;
+  margin: 10px 0;
 }
 
 .todo:hover {
@@ -128,9 +148,6 @@ button:hover,
 
 .todo-form {
   padding: 15px;
-  background-color: #ffffff;
-  border-radius: 6px;
-  box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.1);
 }
 
 @media (max-width: 768px) {

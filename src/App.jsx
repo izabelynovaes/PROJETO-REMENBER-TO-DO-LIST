@@ -38,7 +38,12 @@ function App() {
   };
 
   return (
-    <div className="app">
+    <div className="app-list">
+      <div className="app-2">
+        <h1>Crie sua Tarefa</h1>
+      <TodoForm addTodo={addTodo} />
+      </div>
+       <div className="app">
       <Link to="/" className="back-button">
         Voltar
       </Link>
@@ -74,8 +79,9 @@ function App() {
             ))
         )}
       </div>
-      <TodoForm addTodo={addTodo} />
     </div>
+    </div>
+   
   );
 }
 
