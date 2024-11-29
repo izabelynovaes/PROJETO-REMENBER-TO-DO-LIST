@@ -1,0 +1,41 @@
+
+.timer {
+  position: fixed;
+  top: 10px; 
+  right: 10px; 
+  background-color: #f0f0f0;
+  padding: 10px 20px;
+  border-radius: 10px;
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+}
+
+.timer-buttons {
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.timer-buttons button {
+  padding: 5px 15px;
+  font-size: 14px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.timer-buttons button:hover {
+  background-color: #0056b3;
+}
+
+.timer-buttons button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}

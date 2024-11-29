@@ -5,6 +5,7 @@ import "./App.css";
 import Todo from "./components/Todo";
 import TodoForm from "./components/TodoForm";
 import Filter from "./components/Filter";
+import Timer from "./components/timer";
 import { Search } from "./components/Seach";
 
 function App() {
@@ -79,8 +80,11 @@ function App() {
             ))
         )}
       </div>
+
     </div>
+    <Timer />
     </div>
+    
    
   );
 }
